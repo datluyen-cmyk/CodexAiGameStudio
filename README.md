@@ -2,13 +2,13 @@
 
 ![Codex AI Game Studio: Plan. Generate. Validate. Ship.](assets/branding/hero.png)
 
-[![CI](https://github.com/frabcd/codex-ai-game-studio/actions/workflows/ci.yml/badge.svg)](https://github.com/frabcd/codex-ai-game-studio/actions/workflows/ci.yml)
-[![GitHub stars](https://img.shields.io/github/stars/frabcd/codex-ai-game-studio?style=flat&logo=github&label=stars)](https://github.com/frabcd/codex-ai-game-studio/stargazers)
+[![CI](https://github.com/datluyen-cmyk/CodexAiGameStudio/actions/workflows/ci.yml/badge.svg)](https://github.com/datluyen-cmyk/CodexAiGameStudio/actions/workflows/ci.yml)
+[![GitHub stars](https://img.shields.io/github/stars/datluyen-cmyk/CodexAiGameStudio?style=flat&logo=github&label=stars)](https://github.com/datluyen-cmyk/CodexAiGameStudio/stargazers)
 [![Catalog](https://img.shields.io/badge/catalog-163%20curated%20repository%20records-08C7F7)](plugins/ai-game-studio/catalog/catalog.json)
 [![Skills](https://img.shields.io/badge/bundled%20Codex%20skills-97-7C5CFC)](plugins)
 [![Platforms](https://img.shields.io/badge/editions-Windows%20%7C%20macOS-08C7F7)](#choose-your-edition)
 [![License: MIT](https://img.shields.io/badge/core%20license-MIT-FFB347)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/frabcd/codex-ai-game-studio)](https://github.com/frabcd/codex-ai-game-studio/releases)
+[![Release](https://img.shields.io/github/v/release/datluyen-cmyk/CodexAiGameStudio)](https://github.com/datluyen-cmyk/CodexAiGameStudio/releases)
 
 Turn a game idea—or an existing Unity, Godot, Unreal, or browser project—into a
 **reversible, quality-gated Codex production workflow**. Codex AI Game Studio
@@ -29,7 +29,7 @@ skills do and which one to invoke.
 
 [Install in 60 seconds](#install) · [See a real quality gate](#see-a-quality-gate) · [Copy a production prompt](#what-should-i-say) · [Contribute in 10 minutes](CONTRIBUTING.md#first-contribution-in-10-minutes)
 
-If it earns a place in your workflow, [star the repository](https://github.com/frabcd/codex-ai-game-studio) so another game developer can find it. If something is missing, choose a scoped [`good first issue`](https://github.com/frabcd/codex-ai-game-studio/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22) and improve it with us.
+If it earns a place in your workflow, [star this distribution](https://github.com/datluyen-cmyk/CodexAiGameStudio) so another game developer can find it. For changes to the original AI Game Studio, contribute to [the upstream project](https://github.com/frabcd/codex-ai-game-studio).
 
 ## Install
 
