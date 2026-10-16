@@ -1,0 +1,4 @@
+interface:
+  display_name: "GDD Interview"
+  short_description: "Soạn GDD rõ luật, hỏi chốt thiết kế từ tài liệu gốc"
+  default_prompt: "Dùng $ai-game-studio:gdd-interview để ghép GDD truyền thống, Dev req, Art req và ảnh tham chiếu thành GDD.md chi tiết; hỏi tôi ngay khi viết nếu còn quyết định thiết kế quan trọng chưa rõ."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "GDD Game Studio"
+  short_description: "GDD phỏng vấn → game, art, animation, audio và QA"
+  default_prompt: "Dùng $ai-game-studio:gdd-game-studio để đọc GDD truyền thống, Dev/Art req và tham chiếu; hỏi chốt luật còn thiếu rồi dựng game đúng phạm vi, có art, animation, VFX, audio và kiểm tra thực tế."

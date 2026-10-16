@@ -1,0 +1,46 @@
+{
+  "name": "ai-game-studio",
+  "version": "1.1.2",
+  "description": "A safety-first, cross-platform AI game-production studio for Codex with integrated GDD authoring and build workflows, plus an offline catalog of 163 verified repositories.",
+  "author": {
+    "name": "frabcd",
+    "url": "https://github.com/frabcd"
+  },
+  "homepage": "https://github.com/datluyen-cmyk/CodexAiGameStudio",
+  "repository": "https://github.com/datluyen-cmyk/CodexAiGameStudio",
+  "license": "MIT",
+  "keywords": [
+    "game-development",
+    "generative-ai",
+    "codex",
+    "agent-skills",
+    "visual-qa"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Codex AI Game Studio + GDD",
+    "shortDescription": "Write a build-ready GDD, then create and verify the game.",
+    "longDescription": "Combines the upstream AI Game Studio production workflows with GDD Interview and GDD Game Studio for source-grounded design, explicit gameplay and motion rules, asset coverage, implementation, and verification. The integration adds two Codex skills; the upstream studio workflows and curated catalog remain attributed to frabcd.",
+    "developerName": "frabcd + datluyen-cmyk",
+    "category": "Developer Tools",
+    "capabilities": [
+      "85 upstream game-development skills plus 2 GDD integration skills",
+      "163-repository offline generative-tool catalog",
+      "Cross-platform toolchain planning",
+      "Asset, visual, performance, and playability quality gates"
+    ],
+    "websiteURL": "https://github.com/datluyen-cmyk/CodexAiGameStudio",
+    "privacyPolicyURL": "https://frabcd.github.io/codex-ai-game-studio/privacy/",
+    "termsOfServiceURL": "https://frabcd.github.io/codex-ai-game-studio/terms/",
+    "brandColor": "#08C7F7",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png",
+    "logoDark": "./assets/icon.png",
+    "screenshots": [
+      "./assets/hero.png",
+      "./assets/sprite-qa.png",
+      "./assets/validation-summary.png"
+    ],
+    "defaultPrompt": "Use $ai-game-studio:start to inspect this game project read-only, identify the best workflow, and propose the next safe step."
+  }
+}
