@@ -135,5 +135,3 @@ On resume, read the current GDD and decision/source records first. Apply changed
 If a user defers a material decision, offer a narrower handoff scope or an explicitly provisional/delegated default; never choose either silently. If the user asks only to author GDD, finish with the document and pending questions; do not run code, generate production assets, install dependencies, or create development tasks on their behalf.
 
 The skill is self-contained and has no mandatory BMad, Spec Kit, interview-plugin, network, or subagent dependency. Source material and the user's project may justify optional specialist tools. Read [research notes](references/research-notes.md) only when provenance or adaptation rationale is requested.
-
-
